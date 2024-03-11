@@ -1,4 +1,4 @@
-# Joe’s Café - Branch 1 Menu
+# Joe’s Café - Menu
 
 ## Beverages
 - **Coffee**
